@@ -28,7 +28,7 @@ export const MyWorks = () => {
                     />
                     <Work style={oneWork}
                           link={'https://marid01.github.io/todo-react-ts-it-incubator/'}
-                          repLink={'https://github.com/Sergey-lang/Todo-list'}
+                          repLink={'https://github.com/marid01/todo-react-ts-it-incubator'}
                           projectName={'Task list'}
                           description={
                               'Stack: Javascript, TypeScript, React, Redux, Material UI, ESLint, Prettier'
