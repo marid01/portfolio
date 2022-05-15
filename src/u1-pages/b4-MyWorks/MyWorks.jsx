@@ -19,11 +19,11 @@ export const MyWorks = () => {
                 />
                 <div className={s.works}>
                     <Work style={oneWork}
-                          link={'https://marid01.github.io/react-sneakers-arch/#/'}
-                          repLink={'https://github.com/marid01/react-sneakers-arch'}
-                          projectName={'Sneakers store'}
+                          link={'https://fastfood-shop-test.herokuapp.com/'}
+                          repLink={'https://github.com/marid01/fast-food-shop'}
+                          projectName={'Fastfood Restaurant'}
                           description={
-                              'Stack: SCSS, Javascript, React, ESLint'
+                              'Stack: SCSS, Javascript, React, Redux, Formik, ESLint'
                           }
                     />
                     <Work style={oneWork}
@@ -40,6 +40,7 @@ export const MyWorks = () => {
                           projectName={'Pizza - shop'}
                           description={
                               'Stack: Javascript, React, Redux, ESLint, Prettier'
+
                           }
                     />
                     <Work style={oneWork}

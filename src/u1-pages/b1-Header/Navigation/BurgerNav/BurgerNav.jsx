@@ -13,7 +13,7 @@ export const BurgerNav = (props) => {
    }
 
    const Hide = {
-      right: '-900px'
+      right: '-600px'
    }
 
    return (
